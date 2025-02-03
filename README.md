@@ -35,6 +35,25 @@ Los datasets utilizados en el proyecto provienen de diversas fuentes abiertas:
 - **📁 README.md/** → Documentación detallada del proyecto.
 - **📁 requirements.txt/** → Librerías necesarias para correr el Jupyter Notebook.
 
+  📌 Explicación de las Librerías
+✅ Manejo de Datos
+pandas → Para trabajar con DataFrames.
+✅ Bases de Datos
+sqlite3 → Módulo nativo para SQLite.
+mysql-connector-python → Para conectarte a MySQL.
+pymysql → Alternativa para conexión MySQL.
+pymongo → Para conectarte a MongoDB.
+redis → Para manejar Redis.
+sqlalchemy → ORM para manejar bases de datos SQL.
+✅ Análisis de Sentimientos
+nltk → Procesamiento de lenguaje natural.
+textblob → Análisis de sentimiento fácil de usar.
+✅ Extracción y Manejo de Datos
+json → Para manejar datos en formato JSON.
+✅ Jupyter Notebook
+jupyter → Para ejecutar el Notebook.
+
+
 
 ## 📊 Análisis y Resultados
 Se realizaron diversos análisis de datos, incluyendo:
