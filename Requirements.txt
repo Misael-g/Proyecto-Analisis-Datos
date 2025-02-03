@@ -7,7 +7,6 @@ pymysql
 pymongo
 sqlalchemy
 json
-seaborn
 textblob
 jupyter
 
